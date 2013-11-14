@@ -2,7 +2,7 @@ LifeGame by Ruby
 ---
 Practive implementation usign curses module.
 
-# Running Life Game
+## Running Life Game
 ```
 ruby rlifegame.rb
 ```
